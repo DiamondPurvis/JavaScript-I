@@ -89,7 +89,10 @@ console.log(Antonietta.multiplyNums(3,4));
 const parent = {
   "name": "Susan",
   "age": 70,
-  
+    child: {
+      "name": "Georgie",
+      "age": 50,
+    }
 }
 
 // Log the parent object's name
